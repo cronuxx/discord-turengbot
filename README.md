@@ -19,7 +19,7 @@ client = commands.Bot(command_prefix='.')
 TOKEN = 'your token here' # token'ininiz buraya 
 ```
 
-Ya da var olan botunuza **tureng.py** dosyasını **cog** dosyalarınıza ekleyerek kullanabilirsiniz.
+Ya da var olan botunuza **tureng.py** dosyasını **cog** dosyalarınıza ekleyerek var olan bota entegre ederek kullanabilirsiniz.
 
 
 
